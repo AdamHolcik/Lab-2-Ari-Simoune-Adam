@@ -35,3 +35,6 @@ while correct == False: # while correct is false it will keep asking the user to
     print('you wrote',words, 'word(s)') # prints out how many words were written
   else: # if the words were seperated by spaces
     print('please seperate your words with question marks') #asks the user to use the correct format to write the sentence
+
+
+
